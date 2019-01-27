@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Second Post</title>
+      <link>/2019/01/26/second-post/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/26/second-post/</guid>
+      <description> Second Post I need two posts as a test
+ </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
