@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on A Hugo website</title>
+    <title>R on Paracelsus</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on A Hugo website</description>
+    <description>Recent content in R on Paracelsus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Jan 2019 21:13:14 -0500</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2019/01/26/hello-r-markdown/</link>
+      <title>First Post</title>
+      <link>/2019/01/26/first-post/</link>
       <pubDate>Sat, 26 Jan 2019 21:13:14 -0500</pubDate>
       
-      <guid>/2019/01/26/hello-r-markdown/</guid>
+      <guid>/2019/01/26/first-post/</guid>
       <description> First Post First Post
  </description>
     </item>
